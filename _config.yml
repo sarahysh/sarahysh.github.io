@@ -98,11 +98,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hankuk Academy of Foreign Studies 2nd grade"
   location         : "Hankuk Academy of Foreign Studies"
-  email            : "0714cell@gmail.com"
+  email            : "sarahysh220@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:0714cell@gmail.com"
+      # url: "mailto:sarahysh220@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
