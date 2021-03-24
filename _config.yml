@@ -20,7 +20,7 @@ title                    : "Sarahysh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "sarah ysh"
-description              : "Hankuk Academy of Foreign Studies 2nd grade"
+description              : "HAFS 16 Natural Science"
 url                      : "https://sarahysh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Sarahysh/Sarahysh.github.io"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Sarah Hong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hankuk Academy of Foreign Studies 2nd grade"
-  location         : "Hankuk Academy of Foreign Studies"
+  bio              : "HAFS 16 Natural Science"
+  location         : "Seoul, Korea"
   email            : "sarahysh220@gmail.com"
   links:
     - label: "sarahysh220@gmail.com"
