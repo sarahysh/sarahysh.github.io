@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Sarahysh!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -19,11 +19,11 @@ locale                   : "en-US", "ko"
 title                    : "Sarahysh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "sarahysh"
+name                     : "sarah ysh"
 description              : "Hankuk Academy of Foreign Studies 2nd grade"
-url                      : # the base hostname & protocol for your site e.g. "https://sarahysh.github.io"
+url                      : "https://sarahysh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "Sarahysh/Sarahysh.github.io"
+repository               : "Sarahysh/Sarahysh.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
