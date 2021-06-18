@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "최애 레전드 무대 영상 모음"
+title: "K-Pop 레전드 무대 영상 모음"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: K-Pop
+last_modified_at: 2021-06-18
 ---
 
 ### 01. 오마이걸
